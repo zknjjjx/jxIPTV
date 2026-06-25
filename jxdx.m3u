@@ -1,0 +1,296 @@
+#EXTM3U
+# 央视综合
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-1",CCTV-1
+rtsp://115.153.245.70/PLTV/88888888/224/3221225699/iptv8040.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-1",CCTV-1备用
+rtsp://115.153.245.70/PLTV/88888888/224/3221225517/iptv7949.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-2",CCTV-2
+rtsp://115.153.245.70/PLTV/88888888/224/3221226825/59814584.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-3",CCTV-3
+rtsp://115.153.245.70/PLTV/88888888/224/3221226930/65406412.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-4",CCTV-4
+rtsp://115.153.245.70/PLTV/88888888/224/3221226838/59814684.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-5",CCTV-5
+rtsp://115.153.245.70/PLTV/88888888/224/3221226907/65396401.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-6",CCTV-6
+rtsp://115.153.245.70/PLTV/88888888/224/3221226909/65396493.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-7",CCTV-7
+rtsp://115.153.245.70/PLTV/88888888/224/3221226827/59814693.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-8",CCTV-8
+rtsp://115.153.245.70/PLTV/88888888/224/3221226911/65406606.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-9",CCTV-9
+rtsp://115.153.245.70/PLTV/88888888/224/3221226840/59814699.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-10",CCTV-10
+rtsp://115.153.245.70/PLTV/88888888/224/3221226630/51813372.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-11",CCTV-11
+rtsp://115.153.245.70/PLTV/88888888/224/3221226986/85722616.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-12",CCTV-12
+rtsp://115.153.245.70/PLTV/88888888/224/3221226829/59814709.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-13",CCTV-13
+rtsp://115.153.245.70/PLTV/88888888/224/3221227037/87447722.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-14",CCTV-14
+rtsp://115.153.245.70/PLTV/88888888/224/3221226634/51813368.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-15",CCTV-15
+rtsp://115.153.245.70/PLTV/88888888/224/3221226988/85722541.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-16",CCTV-16
+rtsp://115.153.245.70/PLTV/88888888/224/3221227051/92603106.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-17",CCTV-17
+rtsp://115.153.245.70/PLTV/88888888/224/3221226846/61397282.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV-5Plus",CCTV-5+
+rtsp://115.153.245.70/PLTV/88888888/224/3221226976/85722488.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV4-Europe",CCTV4欧洲
+rtsp://115.153.245.70/PLTV/88888888/224/3221226964/77799053.smil
+#EXTINF:-1 group-title="央视综合" tvg-name="CCTV4-America",CCTV4美洲
+rtsp://115.153.245.70/PLTV/88888888/224/3221226962/77799052.smil
+#EXTINF:-1 group-title="央视4K" tvg-name="CCTV16-4K",CCTV16 4K
+rtsp://115.153.233.154/PLTV/88888888/224/3221227051/92603106.smil
+# 央视付费高清
+#EXTINF:-1 group-title="央视付费高清" tvg-name="CCTV3-PaidHD",CCTV3 付费高清
+rtsp://115.153.245.70/PLTV/88888888/224/3221226841/63329606.smil
+#EXTINF:-1 group-title="央视付费高清" tvg-name="CCTV5-PaidHD",CCTV5 付费高清
+rtsp://115.153.245.70/PLTV/88888888/224/3221226852/63329574.smil
+#EXTINF:-1 group-title="央视付费高清" tvg-name="CCTV6-PaidHD",CCTV6 付费高清
+rtsp://115.153.245.70/PLTV/88888888/224/3221226843/63329570.smil
+#EXTINF:-1 group-title="央视付费高清" tvg-name="CCTV8-PaidHD",CCTV8 付费高清
+rtsp://115.153.245.70/PLTV/88888888/224/3221226854/63329578.smil
+# 江西本地频道
+#EXTINF:-1 group-title="江西本地" tvg-name="JiangxiTV",江西卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="Jiangxi-City",江西都市频道
+rtsp://115.153.245.70/PLTV/88888888/224/3221227069/94448631.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="Jiangxi-Eco",江西经济生活
+rtsp://115.153.245.70/PLTV/88888888/224/3221226946/70055407.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="Jiangxi-Eco2",江西经济生活2
+rtsp://115.153.245.70/PLTV/88888888/224/3221226717/53707446.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="Jiangxi-Movie",江西影视旅游
+rtsp://115.153.245.70/PLTV/88888888/224/3221227071/98779894.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="Jiangxi-Agri",江西公共农业
+rtsp://115.153.245.70/PLTV/88888888/224/3221226708/53213097.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="Jiangxi-Kid",江西少儿
+rtsp://115.153.245.70/PLTV/88888888/224/3221226938/68733921.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="Jiangxi-News",江西新闻
+rtsp://115.153.245.70/PLTV/88888888/224/3221226650/53190437.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="Jiangxi-Mobile",江西移动
+rtsp://115.153.245.70/PLTV/88888888/224/3221227070/96801473.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="FengshangShop",风尚购物
+rtsp://115.153.245.70/PLTV/88888888/224/3221227049/90141188.smil
+#EXTINF:-1 group-title="江西本地" tvg-name="Jiangxi-Edu",江西教育
+rtsp://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil
+# 全国卫视频道
+#EXTINF:-1 group-title="卫视频道" tvg-name="HunanTV",湖南卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225697/iptv8039.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="ZhejiangTV",浙江卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="JiangsuTV",江苏卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="DragonTV",东方卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225770/10000100000000060000000000913526_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="BeijingTV",北京卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225546/iptv51912.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="GuangdongTV",广东卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225957/10000100000000060000000000913519_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="ShenzhenTV",深圳卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225764/10000100000000060000000000913503_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="HubeiTV",湖北卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225827/10000100000000060000000000470332_2.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="TianjinTV",天津卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226652/46098366.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="AnhuiTV",安徽卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226622/51176344.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="LiaoningTV",辽宁卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226649/46098370.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="ShandongTV",山东卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225919/10000100000000060000000000811554_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="HeilongjiangTV",黑龙江卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225584/10000100000000060000000000031778_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="FujianTV",东南卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226677/51176347.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="YunnanTV",云南卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226937/72640386.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="JilinTV",吉林卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226831/59814731.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="XizangTV",西藏卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225570/iptv101725.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="GuangxiTV",广西卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226954/71778425.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="NingxiaTV",宁夏卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225747/iptv101619.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="HenanTV",河南卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226842/59814787.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="ChongqingTV",重庆卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226638/51813388.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="GansuTV",甘肃卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221227039/87447727.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="HainanTV",海南卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226933/70442779.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="SichuanTV",四川卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226693/51813384.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="ShanxiTV",山西卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225551/iptv7966.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="GuizhouTV",贵州卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226833/59814738.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="QinghaiTV",青海卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225589/iptv7985.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="ShaanxiTV",陕西卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225755/iptv101726.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="InnerMongoliaTV",内蒙古卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225591/iptv7986.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="XinjiangTV",新疆卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225550/iptv61197.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="BingtuanTV",兵团卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221225753/iptv101723.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="HebeiTV",河北卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226821/59781859.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="XiamenTV",厦门卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226982/85722609.smil
+#EXTINF:-1 group-title="卫视频道" tvg-name="SanshaTV",三沙卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226984/85722645.smil
+# 教育频道
+#EXTINF:-1 group-title="教育频道" tvg-name="CETV1",中国教育1台
+rtsp://115.153.245.70/PLTV/88888888/224/3221226858/63768493.smil
+#EXTINF:-1 group-title="教育频道" tvg-name="CETV2",中国教育2台
+rtsp://115.153.245.70/PLTV/88888888/224/3221226978/85722625.smil
+#EXTINF:-1 group-title="教育频道" tvg-name="CETV4",中国教育4台
+rtsp://115.153.245.70/PLTV/88888888/224/3221226905/65242632.smil
+#EXTINF:-1 group-title="教育频道" tvg-name="ShandongEdu",山东教育
+rtsp://115.153.245.70/PLTV/88888888/224/3221226980/85722602.smil
+# CGTN外语频道
+#EXTINF:-1 group-title="CGTN外语" tvg-name="CGTN-EN",CGTN英语
+rtsp://115.153.245.70/PLTV/88888888/224/3221226947/77798966.smil
+#EXTINF:-1 group-title="CGTN外语" tvg-name="CGTN-Doc",CGTN纪录
+rtsp://115.153.245.70/PLTV/88888888/224/3221226960/77798993.smil
+#EXTINF:-1 group-title="CGTN外语" tvg-name="CGTN-ES",CGTN西班牙语
+rtsp://115.153.245.70/PLTV/88888888/224/3221226949/77798970.smil
+#EXTINF:-1 group-title="CGTN外语" tvg-name="CGTN-FR",CGTN法语
+rtsp://115.153.245.70/PLTV/88888888/224/3221226968/77799060.smil
+#EXTINF:-1 group-title="CGTN外语" tvg-name="CGTN-AR",CGTN阿拉伯语
+rtsp://115.153.245.70/PLTV/88888888/224/3221226951/77799001.smil
+#EXTINF:-1 group-title="CGTN外语" tvg-name="CGTN-RU",CGTN俄语
+rtsp://115.153.245.70/PLTV/88888888/224/3221226966/77798997.smil
+#EXTINF:-1 group-title="CGTN外语" tvg-name="CGTN-Main",CGTN
+rtsp://115.153.245.70/PLTV/88888888/224/3221226694/55738457.smil
+# 少儿卡通
+#EXTINF:-1 group-title="少儿卡通" tvg-name="GoldenEagleCartoon",金鹰卡通
+rtsp://115.153.245.70/PLTV/88888888/224/3221226972/80382319.smil
+#EXTINF:-1 group-title="少儿卡通" tvg-name="XuanDongCartoon",炫动卡通
+rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
+#EXTINF:-1 group-title="少儿卡通" tvg-name="KaKuKids",卡酷少儿
+rtsp://115.153.245.70/PLTV/88888888/224/3221225566/iptv101695.smil
+#EXTINF:-1 group-title="少儿卡通" tvg-name="JiaJiaCartoon",嘉佳卡通
+rtsp://115.153.245.70/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
+#EXTINF:-1 group-title="少儿卡通" tvg-name="NewCartoon",新动漫
+rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
+#EXTINF:-1 group-title="少儿卡通" tvg-name="CartoonShow",动漫秀场
+rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
+#EXTINF:-1 group-title="少儿卡通" tvg-name="KidsAnimation",少儿动画
+rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
+#EXTINF:-1 group-title="少儿卡通" tvg-name="EarlyEdu",早教
+rtsp://115.153.245.70/PLTV/88888888/224/3221227007/86441065.smil
+#EXTINF:-1 group-title="少儿卡通" tvg-name="Animation",动画
+rtsp://115.153.245.70/PLTV/88888888/224/3221227009/86502150.smil
+#EXTINF:-1 group-title="少儿卡通" tvg-name="YouYouBaby",优优宝贝
+rtsp://115.153.245.70/PLTV/88888888/224/3221227050/86502131.smil
+# 影视剧场付费
+#EXTINF:-1 group-title="影视剧场" tvg-name="CHC-HDMovie",CHC高清电影
+rtsp://115.153.245.70/PLTV/88888888/224/3221226990/86128784.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="CHC-Family",CHC家庭影院
+rtsp://115.153.245.70/PLTV/88888888/224/3221226959/86128800.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="CHC-Action",CHC动作电影
+rtsp://115.153.245.70/PLTV/88888888/224/3221226992/86128817.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="FirstTheater",第一剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="FengyunTheater",风云剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="OldTimeTheater",怀旧剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="WonderfulMovie",精彩影视
+rtsp://115.153.245.70/PLTV/88888888/224/3221227052/86502219.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="HappyTheater",欢笑剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="CityTheater",都市剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="SpyTheater",IPTV谍战剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221227016/86441085.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="CrossTalk",IPTV相声小品
+rtsp://115.153.245.70/PLTV/88888888/224/3221226989/86441091.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="CityDrama",城市剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221227018/86441003.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="MilitaryDrama",军旅剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221226995/86441107.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="AncientDrama",古装剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221227020/86441115.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="ComedyMovie",喜剧影院
+rtsp://115.153.245.70/PLTV/88888888/224/3221226997/86441126.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="ActionMovie",动作影院
+rtsp://115.153.245.70/PLTV/88888888/224/3221226999/86441130.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="FamilyMovie",家庭影院
+rtsp://115.153.245.70/PLTV/88888888/224/3221227022/86441136.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="WuxiaTheater",武侠剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221227003/86441017.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="ClassicMovie",经典电影
+rtsp://115.153.245.70/PLTV/88888888/224/3221227010/86440860.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="HotDrama",热播剧场
+rtsp://115.153.245.70/PLTV/88888888/224/3221227008/86440955.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="BigDrama",爱大剧
+rtsp://115.153.245.70/PLTV/88888888/224/3221227014/86441032.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="LightShadow",光影
+rtsp://115.153.245.70/PLTV/88888888/224/3221227013/86502094.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="WildDoc",IPTV野外
+rtsp://115.153.245.70/PLTV/88888888/224/3221226991/86441042.smil
+#EXTINF:-1 group-title="影视剧场" tvg-name="LegalDoc",IPTV法治
+rtsp://115.153.245.70/PLTV/88888888/224/3221226993/86440997.smil
+# 体育竞技频道
+#EXTINF:-1 group-title="体育竞技" tvg-name="PingPong",先锋乒羽
+rtsp://115.153.245.70/PLTV/88888888/224/3221226935/72307307.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="CCTV-Billiards",央视台球
+rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="FengyunFootball",风云足球
+rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="GolfTennis",高尔夫网球
+rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="HappyFishing",快乐垂钓
+rtsp://115.153.245.70/PLTV/88888888/224/3221226834/59781974.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="WorldFishing",四海钓鱼
+rtsp://115.153.245.70/PLTV/88888888/224/3221227048/86502173.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="AutoMoto",汽摩
+rtsp://115.153.245.70/PLTV/88888888/224/3221226819/59781852.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="Billiards",台球
+rtsp://115.153.245.70/PLTV/88888888/224/3221227034/86502060.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="HighNet",高网
+rtsp://115.153.245.70/PLTV/88888888/224/3221227036/86502103.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="Football",足球
+rtsp://115.153.245.70/PLTV/88888888/224/3221227019/86502107.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="Sport1",爱体育
+rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="Sport2",爱体育2
+rtsp://115.153.245.70/PLTV/88888888/224/3221227044/86502115.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="WushuWorld",武术世界
+rtsp://115.153.245.70/PLTV/88888888/224/3221226824/59781846.smil
+#EXTINF:-1 group-title="体育竞技" tvg-name="Wushu",武术
+rtsp://115.153.245.70/PLTV/88888888/224/3221227017/86502065.smil
+# 纪实人文
+#EXTINF:-1 group-title="纪实人文" tvg-name="GoldenEagleDoc",金鹰纪实
+rtsp://115.153.245.70/PLTV/88888888/224/3221226823/59781863.smil
+#EXTINF:-1 group-title="纪实人文" tvg-name="HumanityDoc",纪实人文
+rtsp://115.153.245.70/PLTV/88888888/224/3221225951/10000100000000060000000000905987_0.smil
+#EXTINF:-1 group-title="纪实人文" tvg-name="WorldGeo",世界地理
+rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
+#EXTINF:-1 group-title="纪实人文" tvg-name="QuestDoc",求索纪录
+rtsp://115.153.245.70/PLTV/88888888/224/3221227035/86502224.smil
+#EXTINF:-1 group-title="纪实人文" tvg-name="GlobalWonder",环球奇观
+rtsp://115.153.245.70/PLTV/88888888/224/3221226977/86128939.smil
+#EXTINF:-1 group-title="纪实人文" tvg-name="GeoChannel",地理
+rtsp://115.153.245.70/PLTV/88888888/224/3221227040/86502111.smil
+# 戏曲文化
+#EXTINF:-1 group-title="戏曲文化" tvg-name="LiYuan",梨园
+rtsp://115.153.245.70/PLTV/88888888/224/3221226822/59781815.smil
+#EXTINF:-1 group-title="戏曲文化" tvg-name="Opera",戏曲
+rtsp://115.153.245.70/PLTV/88888888/224/3221227030/86441159.smil
+#EXTINF:-1 group-title="戏曲文化" tvg-name="TeaChannel",茶频道
+rtsp://115.153.245.70/PLTV/88888888/224/3221226832/59781969.smil
+#EXTINF:-1 group-title="戏曲文化" tvg-name="Calligraphy",书画
+rtsp://115.153.245.70/PLTV/88888888/224/3221226971/86128924.smil
+#EXTINF:-1 group-title="戏曲文化" tvg-name="InkArt",墨宝
+rtsp://115.153.245.70/PLTV/88888888/224/3221227032/86502054.smil
+#EXTINF:-1 group-title="戏曲文化" tvg-name="FengyunMusic",风云音乐
+rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
